@@ -13,8 +13,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          template: repository
-          query: '{"repo":"RimuruW"}'
           base: "header, repositories"
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
