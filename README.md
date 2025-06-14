@@ -1,21 +1,14 @@
 ## Hey there, I'm Qingxu 👋 
 
-🎓 I'm a student who's passionate about programming and creating innovative things. 
+A student using code as a tool to explore the complexities of our social and economic world.
 
-🎨 I might have been an artist if I could actually draw. 
+🔬 **Currently Exploring:** Computational Social Science, Data Visualization, Quantitative Analysis.
 
-👨‍💻 I'm interested in a variety of programming languages and technologies.
+💻 **Core Tools:** Python, R, Bash
 
-📧 Feel free to contact me via email at: `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode` 
+🌐 **Find Me:**
+- **Blog:** [blog.linioi.com](https://blog.linioi.com)
+- **Twitter:** [@Hikolary](https://twitter.com/Hikolary)
+- **Telegram:** [@Qingxu_talk](https://t.me/Qingxu_talk)
 
-🐦 You can also find me on Twitter: [@Hikolary](https://twitter.com/Hikolary). 
-
-🔔 I run a Telegram channel where I chat about all sorts of things: [@Qingxu_talk](https://t.me/Qingxu_talk). 
-
-📝 You can find my blog at: [blog.linioi.com](https://blog.linioi.com)
-
-🐧 BTW, I use Arch Linux. 
-
-👉 Check out my projects on my GitHub profile. 
-
-🚀 Let's create something amazing together!
+📧 `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode` | Let's build something valuable together.
