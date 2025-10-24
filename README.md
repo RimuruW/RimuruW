@@ -4,15 +4,16 @@ A student bridging the gap between social science and code, exploring our world 
 
 🔭 **Passionate about**: 
 * Computational Social Science
-* Data Visualization
 * Quantitative Analysis
+* Machine Learning
+* Natural Language Processing (NLP)
 
 💻 **My Toolkit**: 
 - `Python`
 - `R` 
 - `VS Code`
 
-I use macOS btw.
+I use 🍎`macOS` btw.
 
 ---
 
@@ -24,3 +25,4 @@ I use macOS btw.
 - 📧 `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode`
 
 Let's build something valuable together!
+
