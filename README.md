@@ -11,6 +11,7 @@ A student bridging the gap between social science and code, exploring our world 
 - `Python`
 - `R` 
 - `VS Code`
+
 I use macOS btw.
 
 ---
