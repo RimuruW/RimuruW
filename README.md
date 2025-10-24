@@ -1,14 +1,26 @@
 ## Hey there, I'm Qingxu 👋 
 
-A student using code as a tool to explore the complexities of our social and economic world.
+A student bridging the gap between social science and code, exploring our world through data.
 
-🔬 **Currently Exploring:** Computational Social Science, Data Visualization, Quantitative Analysis.
+🔭 **Passionate about**: 
+* Computational Social Science
+* Data Visualization
+* Quantitative Analysis
 
-💻 **Core Tools:** Python, R, Bash
+💻 **My Toolkit**: 
+- `Python`
+- `R` 
+- `VS Code`
+I use macOS btw.
 
-🌐 **Find Me:**
-- **Blog:** [blog.linioi.com](https://blog.linioi.com)
-- **Twitter:** [@Hikolary](https://twitter.com/Hikolary)
-- **Telegram:** [@Qingxu_talk](https://t.me/Qingxu_talk)
+---
 
-📧 `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode` | Let's build something valuable together.
+📫 **Connect with me**
+
+- [📝 Blog](https://blog.linioi.com) 
+- [🐦 Twitter](https://twitter.com/Hikolary)
+- [✈️ Telegram](https://t.me/Qingxu_talk)
+
+> 📧 `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode`
+> 
+> Let's build something valuable together.
