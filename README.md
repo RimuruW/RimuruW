@@ -21,7 +21,6 @@ I use macOS btw.
 - [📝 Blog](https://blog.linioi.com) 
 - [🐦 Twitter](https://twitter.com/Hikolary)
 - [✈️ Telegram](https://t.me/Qingxu_talk)
+- 📧 `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode`
 
-> 📧 `echo 'bWVAbGluaW9pLmNvbQo=' | base64 --decode`
-> 
-> Let's build something valuable together.
+Let's build something valuable together!
